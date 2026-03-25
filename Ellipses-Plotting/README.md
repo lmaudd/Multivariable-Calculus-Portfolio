@@ -1,4 +1,4 @@
-# plotting_ellipses_python
+# Ellipses-Plotting
 This is a collection of Python code I have written. It includes three files, one of which is a dependent for another. 
 
 Math_format_functions.py is  file on which math_plotting_functions.py is based. It comprises one function that 
