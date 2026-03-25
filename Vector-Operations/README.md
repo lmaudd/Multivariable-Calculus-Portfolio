@@ -1,4 +1,4 @@
-# Python-Vector-Operations
+# Vector-Operations
 
 This is a set of functions that can perform vector algebra, dot products, and cross products, and calculate the length of a vector projected onto another.
 
